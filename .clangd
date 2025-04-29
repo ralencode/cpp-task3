@@ -1,0 +1,5 @@
+If:
+  PathMatch: .*\.tpp$
+CompileFlags:
+  Add: [-xc++]
+  Remove: [-xc++-header]
