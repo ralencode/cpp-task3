@@ -1,1 +1,14 @@
-build/compile_commands.json
+[
+{
+  "directory": "/home/ralen/mnt/cpp/task3/build",
+  "command": "/usr/bin/c++   -std=gnu++17 -o CMakeFiles/dll_demo.dir/main.cpp.o -c /home/ralen/mnt/cpp/task3/main.cpp",
+  "file": "/home/ralen/mnt/cpp/task3/main.cpp",
+  "output": "CMakeFiles/dll_demo.dir/main.cpp.o"
+},
+{
+  "directory": "/home/ralen/mnt/cpp/task3/build",
+  "command": "/usr/bin/c++ -DGTEST_LINKED_AS_SHARED_LIBRARY=1  -std=gnu++17 -o CMakeFiles/dll_tests.dir/tests.cpp.o -c /home/ralen/mnt/cpp/task3/tests.cpp",
+  "file": "/home/ralen/mnt/cpp/task3/tests.cpp",
+  "output": "CMakeFiles/dll_tests.dir/tests.cpp.o"
+}
+]
